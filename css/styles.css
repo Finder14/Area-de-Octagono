@@ -1,0 +1,18 @@
+h1{
+    margin-left: 450px;
+    font-size: 20px;
+}
+
+button{
+    position: absolute;
+    bottom: 40px;    
+    left: 20px;
+}
+
+div{
+    margin-left: 550px;
+}
+
+p{
+    margin-left: 20px;
+}
